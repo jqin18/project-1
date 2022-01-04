@@ -1,4 +1,4 @@
-# project-1
+# project-1 + the link to the group presentation
 #For this project, we invesitgated the 5 year performance (trade volume and market captilisation)of some iconic cryptocurrencies, including Bitcoin, Ethereum,Dogecoin and Stellar (This is our first research question).
 
 We compared their performance with VIX and analysed the correlation between the two. In addtion, we also asked 3 more research questions: 
@@ -21,3 +21,7 @@ To answer all of these questions and visualise our result, we updated this main 
 3.Will the traditional investment methods impact the performance of Bitcoin? - bitcoin_line_graph_updated + government_bond_line_graph_updated + interests_rates_line_graph_updated
 
 4.Which region in the world has the highest total value of cryptocurrency? - worldbitcoin
+
+
+
+Link to group presentation slides: https://docs.google.com/presentation/d/1Nd0AFnIGDsfda1f1Zt4HTnLxk3xTfhI0PznCEMx0BSM/edit#slide=id.p
